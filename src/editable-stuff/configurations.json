@@ -1,0 +1,50 @@
+{
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "FirstName": "Manasdeep Singh",
+    "MiddleName": "",
+    "LastName": "Bhatia",
+    "devDesc": "A Full-stack Web Developer & Graphic Designer",
+    "icons": [
+        {
+            "id": 0,
+            "image": "fa-github",
+            "url": "https://github.com/Manas502",
+            "style": "socialicons"
+        },
+        {
+            "id": 1,
+            "image": "fa-facebook",
+            "url": "https://www.facebook.com/manas.d.14/",
+            "style": "socialicons"
+        },
+        {
+            "id": 2,
+            "image": "fa-instagram",
+            "url": "https://www.instagram.com/manas_deep/",
+            "style": "socialicons"
+        },
+        {
+            "id": 3,
+            "image": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/manasdeep-singh-40481b1aa/",
+            "style": "socialicons"
+        }
+    ],
+    "aboutHeading": "About Me",
+    "showInstaProfilePic": true,
+    "instaLink": "https://www.instagram.com/",
+    "instaUsername": "voclpodcast",
+    "instaQuerry": "/?__a=1",
+    "LinkedInLink": "https://www.linkedin.com/in/manasdeep-singh-40481b1aa/",
+    "LinkedInUsername": "Manasdeep Singh",
+    "aboutDescription": "I'm currently pursuing BTech in Computer Science Engineering from Amity University, Noida. Full-Stack Web Development is my area of interest and I am always enthusiastic about learning new stuff ",
+    "projectHeading": "Recent Projects",
+    "gitHubLink": "https://api.github.com/users/",
+    "gitHubUsername": "Manas502",
+    "gitHubQuerry": "/repos?sort=updated&direction=desc",
+    "projectsLength": 4,
+    "showNavigationbar": true,
+    "showBlog": false
+}
